@@ -1,6 +1,6 @@
 - 👋 Hi, I’m r@MVish
-- 👀 I’m interested in in machine learning
-- 🌱 I’m currently learning python and Java and  data structure
+- 👀 I’m interested in developing real life problem
+- 🌱 I’m currently learning new technology which will enhance my skills
 - 💞️ I’m looking to collaborate on multiple real life technical problem to solve
 - 📫 How to reach me ramvish958@gmail.com
 
