@@ -1,5 +1,5 @@
 - 👋 Hi, I’m r@MVish
-- 👀 I’m interested in developing real life problem
+- 👀 I’m interested in solving real life problem's in tech field..
 - 🌱 I’m currently learning new technology which will enhance my skills
 - 💞️ I’m looking to collaborate on multiple real life technical problem to solve
 - 📫 How to reach me ramvish958@gmail.com
